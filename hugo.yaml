@@ -1,7 +1,7 @@
 baseURL: https://EdwinASalcedo.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Edwin's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Edwin's Blog"
     weight: 1
   bn:
     languageCode: bn
@@ -113,7 +113,7 @@ params:
         # tumblr: true
         # pocket: true
         # diaspora: true
-        # mastodon: true
+        mastodon: true
 
     # Enable & configure "Notes" features
     notes:
