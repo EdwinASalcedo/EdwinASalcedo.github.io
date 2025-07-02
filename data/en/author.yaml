@@ -7,11 +7,11 @@ image: "images/author/EdwinIcon.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "edwin.a.salcedo02@gmail.com"
-  phone: "9412689910"
+  # phone: "9412689910"
   github: EdwinASalcedo
   linkedin: edwin-a-salcedo
 
 # some summary about what you do
 summary:
-  - I am a iOS & Go Developer
-  - I love learning & creating with SwiftUI / Go
+  - I am an iOS & Go Dev
+  - I love creating with SwiftUI / Go

@@ -1,6 +1,6 @@
 baseURL: https://EdwinASalcedo.github.io
 
-languageCode: bn
+languageCode: en
 title: "Edwin's Blog"
 
 # Use Hugo modules to add theme
@@ -25,11 +25,11 @@ languages:
     languageName: English
     title: "Edwin's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+  # bn:
+  #   languageCode: bn
+  #   languageName: বাংলা
+  #   title: জনের ব্লগ
+  #   weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -65,9 +65,9 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/dev.png
+    inverted: /images/site/dev.png
+    favicon: /images/site/dev.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/EdwinASalcedo/EdwinASalcedo.github.io
@@ -287,7 +287,7 @@ params:
     template: footer.html
     # Show/hide navigation in the footer. Default is "true".
     navigation:
-      enable: true
+      enable: false
       # show custom menus in the footer
       customMenus: true
     # Show/hide "Contact Me" section in the footer. Default is "true".
@@ -306,4 +306,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false

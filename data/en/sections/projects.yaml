@@ -21,45 +21,47 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: LiftLog
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  role: Owner
+  timeline: "May 2025 - Present"
+  repo: https://github.com/EdwinASalcedo/LiftLog # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: An app made to track your gym progress and log your exercises, reps, sets and more! Coming soon...
+  tags: ["hobby", "swiftui", "app"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
+- name: Various OpenGL Projects
+  logo: /images/sections/projects/opengl_logo.png
+  role: Owner
+  timeline: "Jan 2025 - Apr 2025"
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Example projects made to enhance my understanding of basic computer graphics programming.
+  tags: ["computer-graphics", "c++"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: GeoAI
+  logo: /images/sections/experiences/uf-ifas-logo.jpg
+  role: Intern Team Lead
+  timeline: "May 2024 - Sep 2024"
+  repo: https://github.com/Ecosystem-Services-GeoAI/mapping-urban-agriculture
+  # url: "https://www.example.com"
+  summary: This project showcases my work done as an intern at the GeoAI Lab. The data gathered from the script was used by the Research Professor for the 2024 conference.
+  tags: ["academic","python","gis"]
 
-- name: Nocode
+- name: Toy Dash
   logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+  role: Programmer Lead
+  timeline: "Mar 2025 - May 2025"
+  repo: https://github.com/Viscerus/3878_GroupProject
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: 3D game created with Unity. As lead developer I was in charge of programming the game mechanics and how the game should feel.
+  tags: ["hobby", "fun", "c#", "unity"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   image: /images/sections/projects/toha_website.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]
